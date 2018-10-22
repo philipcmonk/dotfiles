@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/philip/.config/fish'
+let g:netrw_dirhist_2='/home/philip/n/metamodel_prototype/daily_table'
+let g:netrw_dirhist_3='/home/philip/n/api-tournament/lib/models'
+let g:netrw_dirhist_4='/home/philip/n/react-tournament/src'
+let g:netrw_dirhist_5='/home/philip/n/tournament-data-encryption'
+let g:netrw_dirhist_6='/home/philip/n/tournament-data-encryption/R'
+let g:netrw_dirhist_7='/home/philip/n/react-tournament/src/components/Shared'
+let g:netrw_dirhist_8='/home/philip/n/react-tournament/src'
